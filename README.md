@@ -10,13 +10,16 @@
 ## 字表词典
 
 - 2017, 教育部, 《中国语言资源保护工程汉语方言用字规范》
-	- 教育部语保工程的《汉语方言用字规范》（数字版） https://github.com/ambar/fangyanzi
-	- 2023, 张振兴、何瑞, 全國漢語方言用字表稿 https://book.douban.com/subject/36422882/
+    - 教育部语保工程的《汉语方言用字规范》（数字版） https://github.com/ambar/fangyanzi
+    - 2023, 张振兴、何瑞, 全國漢語方言用字表稿 https://book.douban.com/subject/36422882/
 - 2002, 李荣, 现代汉语方言大词典 https://book.douban.com/subject/1194732/
-	- PDF文档：https://github.com/ZWolken/Great-Dictionary-of-Modern-Chinese-Dialects
-	
+    - PDF文档：https://github.com/ZWolken/Great-Dictionary-of-Modern-Chinese-Dialects
+
 - 1999, 许宝华等, 汉语方言大词典 https://book.douban.com/subject/1021870/
 - 臺灣《異體字字典》-漢語方言用字參考表 https://dict.variants.moe.edu.tw/appendix.jsp?ID=4
+
+- 1981年，中国科学院语言研究所，方言调查字表（修订版）
+
 - ……
 
 ## 方言词库（部分）
@@ -33,8 +36,8 @@
 ## 语音资源
 
 - 中国语言资源保护研究中心
-	- http://www.chinalanguages.cn/
-	- 语保工程采录展示平台 https://zhongguoyuyan.cn/
+    - http://www.chinalanguages.cn/
+    - 语保工程采录展示平台 https://zhongguoyuyan.cn/
 - 古音小鏡 http://kaom.net
 - 小學堂·漢字古今音資料庫 https://xiaoxue.iis.sinica.edu.tw/ccrdata/
 - 乡音 https://xiangyin.mobi
